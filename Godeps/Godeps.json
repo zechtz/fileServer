@@ -6,7 +6,9 @@
   ],
   "Deps": [
     {
-          "ImportPath": "github.com/gin-gonic/gin",
+          "net/http",
+          "os"
+          "ImportPath": "github.com/russross/blackfriday",
           "Comment": "v1.0rc1-110-g4cc2de6",
           "Rev": "4cc2de6207f4128624cbdd16be30f64966c67c08"
     }
